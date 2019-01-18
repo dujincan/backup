@@ -1,5 +1,4 @@
 #!/bin/bash 
-count=0
 log=/tmp/backup.log
 server=10.64.80.222
 backup=/backup
